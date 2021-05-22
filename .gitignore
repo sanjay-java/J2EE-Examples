@@ -1,6 +1,7 @@
-/target/**
-bin/**
-.classpath
-.project
-build/**
-.settings/**
+**/target/**
+**/bin/**
+**/.classpath
+**/.project
+**/build/**
+**/.settings/**
+**/.mvn/**
